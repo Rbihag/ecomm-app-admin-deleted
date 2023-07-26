@@ -12,7 +12,7 @@ const Dashboard = () => {
                         <h4 className="mb-0 sub-title">&#8369; 2,370</h4>
                     </div>
                     <div className="d-flex flex-column align-items-end">
-                        <h6><BsArrowDownRight />33%</h6>
+                        <h6 className="green"><BsArrowUpRight />33%</h6>
                         <p className="mb-0  desc">Compared to July 2023</p>
                     </div>
                 </div>
@@ -22,7 +22,7 @@ const Dashboard = () => {
                         <h4 className="mb-0 sub-title">&#8369; 2,370</h4>
                     </div>
                     <div className="d-flex flex-column align-items-end">
-                        <h6><BsArrowDownRight />33%</h6>
+                        <h6 className="red"><BsArrowDownRight />13%</h6>
                         <p className="mb-0  desc">Compared to July 2023</p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@ const Dashboard = () => {
                         <h4 className="mb-0 sub-title">&#8369; 2,370</h4>
                     </div>
                     <div className="d-flex flex-column align-items-end">
-                        <h6><BsArrowDownRight />33%</h6>
+                        <h6 className="green"><BsArrowUpRight />33%</h6>
                         <p className="mb-0  desc">Compared to July 2023</p>
                     </div>
                 </div>
